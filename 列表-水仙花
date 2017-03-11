@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>二三级列表</title>
+</head>
+<body>
+<ul type="dis">
+    <li>花儿</li>
+     <ul type="circle">
+        <li>水仙花</li>
+                    <ul>
+                    <li>大杯水仙</li>
+                    <li>小杯水仙</li>
+                    </ul>
+                <li>牡丹花</li>
+                <li>玫瑰花</li>
+           </ul>
+        <li>树</li>
+        <dl>
+            <dt>枫树</dt>
+            <dt>杨树</dt>
+                <ul type="square">
+                <li>白杨</li>
+                <li>胡杨</li>
+                </ul>
+            <dt>槐树</dt>
+        </dl>
+    <li>其他</li>
+</ul>
+
+</body>
+    </html>

@@ -1,0 +1,23 @@
+/*
+* @Author: Marte
+* @Date:   2017-05-22 15:10:56
+* @Last Modified by:   Marte
+* @Last Modified time: 2017-05-28 19:40:09
+*/
+*{padding-bottom: 0px;margin: 0px;}
+body{font:12px/22px; "宋体";background-image: url("images/beijing2.jpg");}
+ul{list-style: none;}
+a:hover{color:#990;}
+a{text-decoration: none;color:#333}
+.logo{width:1000px;margin:0px;width:1000px;}
+.menu{width:100%;height:40px;background-color:#269f7d}
+.menu ul{width:1000px;margin:0px auto}
+.menu ul li{float:left;width:120px;line-height: 40px;text-align: center;}
+.menu a{font-size:16px;color:#fff;}
+.banner,.banner img{width:90%;height:auto;text-align:center;margin:0 auto}
+.main{width:1000px;margin:0px auto;}
+.m_right{width:748px;height:298px;float:left;border:1px solid #ccc;background-image: url("images/beijing1.jpg");line-height:1.5;font-weight: 700;font-size:20px;text-indent: 2em}
+.m_left{width:240px;height:298px;float:left;border:1px solid #ccc;}
+.list{width:1000px;margin:0px auto;}
+.list_img{width:242px;height:300px;float:left;border-style: groove;border-color: #999;font-size:20px;text-align:center;}
+.footer{height:50px;width:992px;background:#666;color:#aaa; text-align: center;float:left}
